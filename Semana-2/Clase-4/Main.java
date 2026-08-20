@@ -73,11 +73,11 @@ public class Main {
       queue.enqueue(10);
       System.err.println("Entra persona 20");
       queue.enqueue(20);
-      System.out.println("La cola esta vacia?: " + queue.isEmpty());
-      System.out.println("Cuantas personas en la fila?: " + queue.size());
-      System.out.println("El siguiente en la fila es: " + queue.peek());
-      System.out.println("Salio la persona: " + queue.dequeue());
-      System.out.println("Cuantas personas en la fila?: " + queue.size());
+      // System.out.println("La cola esta vacia?: " + queue.isEmpty());
+      // System.out.println("Cuantas personas en la fila?: " + queue.size());
+      // System.out.println("El siguiente en la fila es: " + queue.peek());
+      // System.out.println("Salio la persona: " + queue.dequeue());
+      // System.out.println("Cuantas personas en la fila?: " + queue.size());
       // System.out.println("El siguiente en la fila es: " + queue.peek());
       // System.out.println(queue.dequeue());
       // System.out.println("La cola esta vacia?: " + queue.isEmpty());
